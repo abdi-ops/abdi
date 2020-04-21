@@ -1,0 +1,2 @@
+# abdi
+Pengen belajar gihub
